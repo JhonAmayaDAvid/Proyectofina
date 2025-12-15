@@ -7,7 +7,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 	margin:0;
 	padding:0;
-	background:#ffffff;
+	background:#073101;
  }
 body a{
 	transition:0.5s all;
@@ -937,8 +937,8 @@ code {
   background-color: #757575;
 }
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-  background-color:#5bb2fc; !important;
-  border-color:#5bb2fc; !important;
+  background-color:#5bb2fc; /**!important;*/
+  border-color:#5bb2fc;
 }
 .grid_3 p {
   color: #999;
