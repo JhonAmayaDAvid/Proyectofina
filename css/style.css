@@ -28,15 +28,16 @@ padding:0;
 }
 /*--header--*/
 .banner{
-	background:url(../images/banner.jpg)no-repeat 0px 0px;
+	background:url(../images/citrus-fruits-1851077_1280.jpg)no-repeat 0px 0px;
 	background-size:cover;
 	min-height: 750px;
 }
 .logo {
   float: left;
-  background: #000;
+  background:none;
   padding: .5em 3em 1.6em 2em;
   width: 17%;
+  border-radius: 50%;
 }
 .header {
  padding-top: 0em;
