@@ -673,13 +673,13 @@ letter-spacing: 2px;
   text-decoration: none;
 }
 .ftr-logo {
-  margin-top: 2em;
+  margin-top: 1em;
 }
 .ftr-logo a:hover{
 	text-decoration:none;
 }
 .ftr-logo p {
-  margin-top: 1em;
+  margin-top: 2em;
   color: #848484;
   line-height: 1.8em;
   font-size: 0.95em;
@@ -1234,6 +1234,9 @@ h3.tittle {
   color: #888;
   font-weight: 400;
   margin-top: 0.5em;
+}
+.logo-foother{
+	height: 150px;
 }
 a.blog.hvr-shutter-out-horizontal {
   padding: 0.6em 1em;
