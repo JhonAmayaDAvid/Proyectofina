@@ -237,7 +237,9 @@ position: absolute;
 .welcome {
     padding: 4em 0 6em;
   text-align: center;
+  font-size: 18px;
 }
+
 .welcome h3 {
   font-family: 'Viga', sans-serif;
   text-align: center;
@@ -291,6 +293,7 @@ img.zoom-img:hover {
 }
 .index-portfilio {
     padding: 5em 0 0;
+	font-size: 18px;
 }
 .index-portfilio h3 {
 font-family: 'Viga', sans-serif;
@@ -496,6 +499,7 @@ figure.effect-layla:hover img {
 /*--index-team--*/
 .content-team {
 	  padding: 0em 0 5em;
+	  font-size: 16px;
 }
 
 h3.m_1 {
