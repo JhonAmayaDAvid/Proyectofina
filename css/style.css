@@ -19,6 +19,7 @@ body a{
 h1,h2,h3,h4,h5,h6{
 	margin:0;			   
 }
+
 p{
 	margin:0;
 }
@@ -496,6 +497,7 @@ figure.effect-layla:hover img {
 .content-team {
 	  padding: 0em 0 5em;
 }
+
 h3.m_1 {
 font-family: 'Viga', sans-serif;
   text-align: center;
@@ -737,6 +739,9 @@ letter-spacing: 2px;
 .view.effect img {
   width: 100%;
 }
+.our-mission{
+	font-size: 18px;
+}
 .our-grid h6,.left-sit h6,.our-mission h6{
 	margin:0;
 	font-size:1.2em;
@@ -747,7 +752,7 @@ letter-spacing: 2px;
 	text-decoration:none;
 }
 .our-grid h6 a:hover,.our-mission h6 a:hover{
-	color:#000;
+	color:#000000;
 }
 .our-grid p,.left-sit p,.our-mission p{
 	margin:1em 0;
