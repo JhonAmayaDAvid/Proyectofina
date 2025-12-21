@@ -9,7 +9,7 @@ Visual Studio code,  navegador, github.
 
 ###Instrucciones de instalación o visualización
 <p>
-Visualiza la pagina web atravez del link de github con el navegador que prefiera
+Visualiza la pagina web atravez del link https://jhonamayadavid.github.io/Proyectofina/ de github con el navegador de su preferencia 
 </p>
 ### Autor
 <P>
